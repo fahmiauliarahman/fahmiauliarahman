@@ -61,13 +61,12 @@ I'm actively looking to collaborate on:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmiauliarahman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiauliarahman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmiauliarahman&theme=tokyonight" alt="GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmiauliarahman&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahmiauliarahman&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahmiauliarahman&theme=tokyonight" alt="Top Languages" height="165"/>
 
 ---
 

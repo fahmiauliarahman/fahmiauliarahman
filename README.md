@@ -15,7 +15,7 @@ I craft scalable full stack systems by day and build Neovim plugins or anything 
 - [droid.nvim](https://github.com/fahmiauliarahman/droid.nvim) - Factory AI integration for Neovim
 - [json2go.nvim](https://github.com/fahmiauliarahman/json2go.nvim) - JSON to Go struct converter
 - [goctl.nvim](https://github.com/fahmiauliarahman/goctl.nvim) - Go-zero framework tooling
-- Coming soon: a battle tested and ready to go template for backend development backed by golang.
+- [react-javascript-snippets.nvim](https://github.com/fahmiauliarahman/react-javascript-snippets.nvim) - React snippets that is inspired by the most popular extension on VSCode ported into nvim [rodrigovallades.es7-react-js-snippets](https://marketplace.visualstudio.com/items?itemName=rodrigovallades.es7-react-js-snippets)
 
 ---
 

@@ -4,7 +4,7 @@
 
 I craft scalable full stack systems by day and build Neovim plugins or anything by night. Passionate about developer tooling and always open to exciting collaborations.
 
-[![Website](https://img.shields.io/badge/Portfolio-fahmi.is--a.dev-blueviolet?style=flat-square)](https://fahmiar.com)
+[![Website](https://img.shields.io/badge/Portfolio-fahmiar.com-blueviolet?style=flat-square)](https://fahmiar.com)
 
 ---
 
